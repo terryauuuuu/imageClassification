@@ -12,4 +12,4 @@ numberOfImagesPerClass = integers
 ##Execute the command below and it will generate an image on the current directory, then it predict its words and output the result via the console
 `python generate_images.py `
 
-##'predict.py' would be called by `generate_images.py `
+##`predict.py` would be called by `generate_images.py `
